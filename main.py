@@ -26,17 +26,17 @@ while True:
             print("Opps! Draw ")
         else:
             if(computer_bot==1 and user==2):
-                print("You Lose 😢")
+                print("You Lose ")
             elif(computer_bot==1 and user==3):
-                print("You Won 😎")
+                print("You Won ")
             elif(computer_bot==2 and user==1):
-                print("You won 😎")
+                print("You won ")
             elif(computer_bot==2 and user==3):
-                print("You Lose 😢")
+                print("You Lose ")
             elif(computer_bot==3 and user==1):
-                print("You Lose 😢")
+                print("You Lose ")
             elif(computer_bot==3 and user==2):
-                print("You won 😎")
+                print("You won ")
 
         # Showing who choose what
         print(f"You choose {reverseDict[user]}\nComputer choose {reverseDict[computer_bot]}")
