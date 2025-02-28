@@ -30,3 +30,6 @@ A simple console-based **Rock, Paper, Scissors** game in Python where you can pl
 3. Run the Python script:
    ```bash
    python rock_paper_scissors.py
+## Creater
+- **Author**: Nirajan Chaudhary
+- **Email**: nirajanchaudhary624@gmail.com
