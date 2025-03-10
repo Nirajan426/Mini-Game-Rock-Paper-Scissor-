@@ -62,10 +62,10 @@ while True:
     print(f"You choose {reverseDict[user]}\nComputer choose {reverseDict[computer_bot]}")
    
     
-    # Display the score after each round
+    # Display the score after each round.
     print(f"Scores: You {user_score} - Computer {computer_score} - Draws {draws}")
     
-    # Ask if the user wants to play again
+    # Ask if the user wants to play again.
     dec = input("\nDo you want to play again (y/n)?\n").lower()
     if dec == 'n':
         print("Thanks for playing!!")
