@@ -68,5 +68,5 @@ while True:
     # Ask if the user wants to play again
     dec = input("\nDo you want to play again (y/n)?\n").lower()
     if dec == 'n':
-        print("Thanks for playing!")
+        print("Thanks for playing!!")
         break
